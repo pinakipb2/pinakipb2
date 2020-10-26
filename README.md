@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on New & Interesting Stuffs
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning New Languages
 - 👯 I’m looking to collaborate with Developers
 - 💬 Ask me about Code
 - 📫 How to reach me: [@pinakipb2][username]
