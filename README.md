@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Pinaki Bhattacharjee
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pinaki Bhattacharjee
 
 
 Here are some ideas to get you started:
