@@ -4,7 +4,7 @@
 
 ## :sunglasses: About Me
 
-- 🔭 I’m currently working as a Software Engineer at [Optum (UHG)](https://optum.com)
+- 🔭 I’m currently working as a Sr. Software Engineer at [Optum (UHG)](https://optum.com)
 - 🌱 I’m currently learning more on Modern Full Stack Technologies
 - 💬 Ask me about **Full Stack**
 - 📫 How to reach me: [@pinakipb2][linkedin] on LinkedIn
